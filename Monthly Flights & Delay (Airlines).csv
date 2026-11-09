@@ -1,0 +1,163 @@
+"MONTH","flights_with_delay","avg_delay","AIRLINE"
+1,4647,1.42,Virgin America
+1,13151,-0.32,Alaska Airlines Inc.
+1,43074,6.96,American Airlines Inc.
+1,6735,18.36,Frontier Airlines Inc.
+1,37363,6.35,United Air Lines Inc.
+1,98060,3.39,Southwest Airlines Co.
+1,8632,11.4,Spirit Air Lines
+1,6408,3.51,Hawaiian Airlines Inc.
+1,20482,7.35,JetBlue Airways
+1,32478,3.11,US Airways Inc.
+1,27568,18.16,American Eagle Airlines Inc.
+1,63676,-2.04,Delta Air Lines Inc.
+1,46655,10.89,Skywest Airlines Inc.
+1,48084,8.54,Atlantic Southeast Airlines
+2,12028,-0.78,Alaska Airlines Inc.
+2,5691,27.42,Frontier Airlines Inc.
+2,4054,7.78,Virgin America
+2,37180,7.53,American Airlines Inc.
+2,18383,18.66,JetBlue Airways
+2,22992,21.3,American Eagle Airlines Inc.
+2,59070,5.61,Delta Air Lines Inc.
+2,35172,7.26,United Air Lines Inc.
+2,42005,10.42,Atlantic Southeast Airlines
+2,7813,16.47,Spirit Air Lines
+2,5773,6.03,Hawaiian Airlines Inc.
+2,86544,3.5,Southwest Airlines Co.
+2,28509,7.11,US Airways Inc.
+2,42449,9.59,Skywest Airlines Inc.
+3,4796,5.35,Virgin America
+3,51875,6.73,Atlantic Southeast Airlines
+3,106854,3.26,Southwest Airlines Co.
+3,42871,4.89,United Air Lines Inc.
+3,6294,3.47,Hawaiian Airlines Inc.
+3,33647,3.33,US Airways Inc.
+3,6880,20.07,Frontier Airlines Inc.
+3,26062,11.02,American Eagle Airlines Inc.
+3,73507,2.08,Delta Air Lines Inc.
+3,9254,10.04,Spirit Air Lines
+3,14196,-0.54,Alaska Airlines Inc.
+3,44440,6.69,American Airlines Inc.
+3,22027,10.74,JetBlue Airways
+3,49435,3.18,Skywest Airlines Inc.
+4,9415,8.77,Spirit Air Lines
+4,24728,5.13,American Eagle Airlines Inc.
+4,71896,0.08,Delta Air Lines Inc.
+4,48495,3.22,Skywest Airlines Inc.
+4,32251,2.66,US Airways Inc.
+4,44179,4.93,American Airlines Inc.
+4,4896,1.0,Virgin America
+4,13885,-3.01,Alaska Airlines Inc.
+4,21815,2.78,JetBlue Airways
+4,48135,4.82,Atlantic Southeast Airlines
+4,7092,12.64,Frontier Airlines Inc.
+4,40865,4.38,United Air Lines Inc.
+4,6079,0.01,Hawaiian Airlines Inc.
+4,105520,3.0,Southwest Airlines Co.
+5,43611,5.17,American Airlines Inc.
+5,8075,13.01,Frontier Airlines Inc.
+5,5195,7.1,Virgin America
+5,14605,-1.72,Alaska Airlines Inc.
+5,22352,-0.71,JetBlue Airways
+5,24405,5.47,American Eagle Airlines Inc.
+5,6418,0.83,Hawaiian Airlines Inc.
+5,43864,6.83,United Air Lines Inc.
+5,33449,0.68,US Airways Inc.
+5,49128,4.14,Skywest Airlines Inc.
+5,9800,22.4,Spirit Air Lines
+5,47938,7.72,Atlantic Southeast Airlines
+5,106330,5.68,Southwest Airlines Co.
+5,74471,0.15,Delta Air Lines Inc.
+6,7814,19.71,Frontier Airlines Inc.
+6,43614,8.19,American Airlines Inc.
+6,5227,5.78,Virgin America
+6,47154,13.95,Atlantic Southeast Airlines
+6,14985,-0.22,Alaska Airlines Inc.
+6,76760,4.42,Delta Air Lines Inc.
+6,49058,8.34,Skywest Airlines Inc.
+6,23991,9.64,American Eagle Airlines Inc.
+6,22246,5.05,JetBlue Airways
+6,33889,5.77,US Airways Inc.
+6,44745,16.93,United Air Lines Inc.
+6,6663,0.88,Hawaiian Airlines Inc.
+6,107376,10.74,Southwest Airlines Co.
+6,9325,35.56,Spirit Air Lines
+7,10202,14.35,Spirit Air Lines
+7,45873,10.26,United Air Lines Inc.
+7,112411,10.5,Southwest Airlines Co.
+7,6936,2.0,Hawaiian Airlines Inc.
+7,24047,3.98,American Eagle Airlines Inc.
+7,23747,5.84,JetBlue Airways
+7,8038,14.46,Frontier Airlines Inc.
+7,80650,3.87,American Airlines Inc.
+7,51658,6.79,Skywest Airlines Inc.
+7,80386,1.2,Delta Air Lines Inc.
+7,49321,6.93,Atlantic Southeast Airlines
+7,5384,7.14,Virgin America
+7,15731,0.38,Alaska Airlines Inc.
+8,5658,5.11,Virgin America
+8,47668,5.15,Atlantic Southeast Airlines
+8,51786,5.61,Skywest Airlines Inc.
+8,80675,0.65,Delta Air Lines Inc.
+8,23506,9.28,JetBlue Airways
+8,23116,1.9,American Eagle Airlines Inc.
+8,8103,9.18,Frontier Airlines Inc.
+8,78708,3.19,American Airlines Inc.
+8,16031,2.5,Alaska Airlines Inc.
+8,10227,20.52,Spirit Air Lines
+8,106687,5.53,Southwest Airlines Co.
+8,44941,5.01,United Air Lines Inc.
+8,6850,7.45,Hawaiian Airlines Inc.
+9,72888,-1.43,American Airlines Inc.
+9,7846,0.98,Frontier Airlines Inc.
+9,14232,-1.81,Alaska Airlines Inc.
+9,5141,0.07,Virgin America
+9,21007,3.54,JetBlue Airways
+9,20799,-2.17,American Eagle Airlines Inc.
+9,43367,0.85,Atlantic Southeast Airlines
+9,71950,-3.7,Delta Air Lines Inc.
+9,9868,8.0,Spirit Air Lines
+9,6127,3.7,Hawaiian Airlines Inc.
+9,100119,-1.34,Southwest Airlines Co.
+9,41602,-1.79,United Air Lines Inc.
+9,47207,1.53,Skywest Airlines Inc.
+10,104053,-0.69,Southwest Airlines Co.
+10,6226,0.47,Hawaiian Airlines Inc.
+10,45676,-2.46,United Air Lines Inc.
+10,21738,3.68,JetBlue Airways
+10,75458,-5.01,Delta Air Lines Inc.
+10,48486,1.75,Skywest Airlines Inc.
+10,10134,6.81,Spirit Air Lines
+10,76381,-0.58,American Airlines Inc.
+10,14414,-2.99,Alaska Airlines Inc.
+10,5435,2.25,Virgin America
+10,21661,-3.74,American Eagle Airlines Inc.
+10,45131,2.3,Atlantic Southeast Airlines
+10,8085,0.08,Frontier Airlines Inc.
+11,19331,0.22,American Eagle Airlines Inc.
+11,10050,7.54,Spirit Air Lines
+11,72138,-3.18,Delta Air Lines Inc.
+11,46473,4.93,Skywest Airlines Inc.
+11,7713,11.16,Frontier Airlines Inc.
+11,41644,4.42,Atlantic Southeast Airlines
+11,5345,0.12,Virgin America
+11,6012,-2.72,Hawaiian Airlines Inc.
+11,13871,-1.92,Alaska Airlines Inc.
+11,73132,0.77,American Airlines Inc.
+11,42236,0.28,United Air Lines Inc.
+11,102880,1.0,Southwest Airlines Co.
+11,21542,1.42,JetBlue Airways
+12,42430,6.69,Atlantic Southeast Airlines
+12,5470,13.5,Virgin America
+12,42554,7.01,United Air Lines Inc.
+12,6255,-1.71,Hawaiian Airlines Inc.
+12,105569,6.72,Southwest Airlines Co.
+12,14310,-1.85,Alaska Airlines Inc.
+12,45984,10.95,Skywest Airlines Inc.
+12,10473,12.73,Spirit Air Lines
+12,70288,2.5,Delta Air Lines Inc.
+12,20091,0.66,American Eagle Airlines Inc.
+12,75078,4.15,American Airlines Inc.
+12,23197,13.84,JetBlue Airways
+12,8018,9.35,Frontier Airlines Inc.
