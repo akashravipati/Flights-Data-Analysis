@@ -41,6 +41,6 @@ These are descriptive associations. The data does not show why any airline or ai
 - Average delay is affected by very late flights, so it does not describe a typical flight.
 
 ## Repository contents
-- `sql/`: the SQL queries used
-- `outputs/`: summary CSV files used in Tableau
-- The raw Kaggle files are not included because of their size. Download them from the Kaggle dataset page.
+- `.sql`: the SQL queries used
+- `results/`: summary CSV files used in Tableau
+- The raw Kaggle files are not included because of their size.
